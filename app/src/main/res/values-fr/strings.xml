@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Livres</string>
+    <string name="open">Ouvrir Menu</string>
+    <string name="close">Fermer Menu</string>
+    <string name="description">Description :</string>
+    <string name="page_count">Nombre des pages :</string>
+    <string name="publisher">Editeur :</string>
+    <string name="published_date">Date de publication :</string>
+    <string name="by">De :</string>
+    <string name="home">Accueil</string>
+    <string name="search">Chercher</string>
+    <string name="profile">Profile</string>
+    <string name="users">Utilisateurs</string>
+    <string name="settings">Parametres</string>
+    <string name="communicate">Communiquer</string>
+    <string name="share">Partager</string>
+    <string name="donate">Faire un don</string>
+    <string name="authentication">Authentification</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="not_available">Pas disponible</string>
+    <string name="welcome_to_users_activity">Bienvenue dans l\'activité utilisateurs</string>
+    <string name="welcome_to_donate_activity">Bienvenue dans l\'activité faire un don</string>
+    <string name="welcome_to_logout_activity">Bienvenue dans l\'activité se déconnecter</string>
+    <string name="welcome_to_search_activity">Bienvenue dans l\'activité chercher</string>
+    <string name="welcome_to_profile_activity">Bienvenue dans l\'activité profile</string>
+    <string name="welcome_to_settings_activity">Bienvenue dans l\'activité parametres</string>
+    <string name="welcome_to_share_activity">Bienvenue dans l\'activité partager</string>
+    <string name="btn_search">Chercher</string>
+    <string name="enter_book_name">Entrez le nom du livre</string>
+</resources>
